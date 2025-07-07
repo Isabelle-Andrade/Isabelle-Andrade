@@ -1,27 +1,34 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1587134085/8661/fast_meow_party.gif?1587134085" width="30"/> Hello, World ! </h1>
-========================================================================================
+# 👩🏻‍💻 Isabelle Andrade
 
-My name is Isabelle Guimarães de Andrade. I'm a Fullstack Developer.   👩‍💻
+Me chamo Isabelle Guimarães de Andrade, tenho 18 anos e sou natural de Resende - RJ. Concluí o ensino médio no ano de 2024. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI - Firjan Resende. 
 
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=thaispll&repo=thaispll&countColorcountColor)
+### 🤖 Linguagens e Tecnologias
 
-### Languages & Tools 🛠  
-![Javascript](https://img.shields.io/badge/-Javascript-05122A?style=flat&color=green)&nbsp;![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&color=green)&nbsp;![CSharp](https://img.shields.io/badge/-CSharp-05123A?style=flat&color=green)&nbsp;![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&color=green)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&color=orange)&nbsp;![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&color=orange)&nbsp;![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&color=orange)&nbsp;  
-![VisualStudio](https://img.shields.io/badge/-VisualStudio-05122A?style=flat&color=gray)&nbsp;![VisualStudioCode](https://img.shields.io/badge/-VisualStudioCode-05122A?style=flat&color=gray)&nbsp;![SublimeText](https://img.shields.io/badge/-SublimeText-05122A?style=flat&color=gray)&nbsp;  
-![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&color=yellow)&nbsp;![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&color=yellow)&nbsp;  
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<br></br>
+### ⚙️ Analytics 
 
-
-### Analytics ⚙️
-
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thaispll&layout=compact&count_private=true)
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=thaispll&hide_border=true)
-![Github Statistics](https://github-readme-stats.vercel.app/api/?username=thaispll&count_private=true&show_icons=true)
-
-
-### Let's connect? 🤝 
-
-<a href="https://www.instagram.com/isabelle_deandrade/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="mailto:isabelleandrade1109@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1450319445/46/question.gif?1450319445"/></p>  <h3 align="center">Dúvidas ou sugestões? Entre em contato comigo! </h3></p>
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayane-fonseca&layout=compact&count_private=true)
