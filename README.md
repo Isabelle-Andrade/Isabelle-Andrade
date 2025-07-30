@@ -31,7 +31,7 @@ Me chamo Isabelle Guimarães de Andrade, tenho 18 anos e sou natural de Resende 
 <br></br>
 ### ⚙️ Analytics 
 
-![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rayane-fonseca&layout=compact&count_private=true)
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=isabelle-andrade&layout=compact&count_private=true)
 
 ### Let's connect? 🤝 
 
