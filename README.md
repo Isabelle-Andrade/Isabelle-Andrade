@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Isabelle Andrade
 
-Me chamo Isabelle Guimarães de Andrade, tenho 18 anos e sou natural de Resende - RJ. Concluí o ensino médio no ano de 2024. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI - Firjan Resende. 
+Me chamo Isabelle Guimarães de Andrade, tenho 19 anos e sou natural de Resende - RJ. Concluí o ensino médio no ano de 2024. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas no SENAI - Firjan Resende. 
 
 ### 🤖 Linguagens e Tecnologias
 
